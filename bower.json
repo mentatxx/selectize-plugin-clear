@@ -1,0 +1,30 @@
+{
+  "name": "selectize-plugin-clear",
+  "keywords": ["selectize", "plugin"],
+  "version": "0.0.1",
+  "homepage": "https://github.com/mentatxx/selectize-plugin-clear",
+  "authors": [
+    "Alexey Petushkov <mentatxx@gmail.com>"
+  ],
+  "description": "Plugin for Selectize which adds a \"clear\" button",
+  "readmeFilename": "README.md",
+  "main": ["dist/selectize-plugin-clear.css","dist/selectize-plugin-clear.js"],
+  "ignore": [
+	"**/.*",
+	"Makefile",
+	"Gruntfile.js",
+	"examples",
+	"node_modules",
+	"bower_components",
+	"docs",
+	"src",
+	"test",
+	".travis.yml",
+	"*.sh",
+	"package.json"
+  ],
+  "license": "Apache License, Version 2.0",
+  "dependencies": {
+    "selectize": ">=0.12.1",
+  }
+}

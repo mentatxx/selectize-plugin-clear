@@ -1,0 +1,11 @@
+.selectize-control.plugin-clear_button .clearAll {
+    font-size: 26px;
+    position: absolute;
+    right: 30px;
+    z-index: 10;
+    top: -2px;
+    cursor: pointer;
+}
+.selectize-control.plugin-clear_button .clearAll:hover {
+    text-decoration: underline;
+}
