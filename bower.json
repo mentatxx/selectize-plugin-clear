@@ -25,6 +25,6 @@
   ],
   "license": "Apache License, Version 2.0",
   "dependencies": {
-    "selectize": ">=0.12.1",
+    "selectize": ">=0.12.1"
   }
 }
