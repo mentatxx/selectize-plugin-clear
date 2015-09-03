@@ -38,6 +38,7 @@ Selectize.define('clear_button', function(options) {
                 if (self.isLocked) return;
                 self.clear();
                 self.clearOptions();
+                self.$control_input.focus();
             });
 
         };
