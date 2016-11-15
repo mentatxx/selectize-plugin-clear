@@ -1,0 +1,25 @@
+{
+  "name": "selectize-plugin-clear",
+  "version": "0.0.3",
+  "description": "Plugin for Selectize which adds a \"clear\" button",
+  "main": "dist/selectize-plugin-clear.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mentatxx/selectize-plugin-clear.git"
+  },
+  "keywords": [
+    "selectize",
+    "clear",
+    "plugin",
+    "addon"
+  ],
+  "author": "Alexey Petushkov",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mentatxx/selectize-plugin-clear/issues"
+  },
+  "homepage": "https://github.com/mentatxx/selectize-plugin-clear#readme"
+}
